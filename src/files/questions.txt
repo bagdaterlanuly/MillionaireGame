@@ -1,0 +1,36 @@
+The capital city of Kazakhstan?
+Astana
+Baku;Moscow;Shimkent;Tashkent;Kuala-Lumpur
+Who is the founder of PayPal?
+Elon Musk
+Steve Jobs;Larry Page;Mark Zukerberg;Bill Gates;Pavel Durov
+When Java was created?
+1995
+2009;1999;1994;2000;2001
+When DiCaprio got his first Oscar?
+2017
+2007;2015;1998;2009;2016
+When Russian Federation got its independancy?
+1992
+1991;1994;1995;never;2000
+Назовите столицу Австралии
+Canberra
+Sydney; Albury; Liverpool; NewCastle
+Какую первую программу пишут программисты?
+Hello World
+Сортировку "пузырьком"; Для взлома "ВК"; Для ремонта утюга; Моды для GTA5
+Базовая единица хранения информации?
+бит
+гигабит; байт; килобит; килогерц; гигаватт
+Что такое стринги?
+Переменные типа "строка"
+Разновидность трусов; "Веревки" (англ.); Струны на арфе; Что происходит?
+Кто был одним из основателей компании HP
+David Packard
+Steve Jobs; Elon Mask; Larry Page; Bill Gates; Dart Vader
+Дата официального выпуска Java?
+1995
+1998; 2001; 1999; 1997; 1996
+Сколько уникальных значений может принимать 1 байт
+1
+255; 256; 199; 2; 0; -199
